@@ -23,6 +23,6 @@ Google 広告に関するポリシー
 
 本ポリシーに関するお問い合わせは、下記の連絡先までお願いいたします。
 
-開発者名：〇〇
-連絡先Eメール：〇〇
+開発者名：Yuki Miyamoto
+連絡先Eメール：yukimiyamoto.project@gmail.com
 制定日: 2025年9月21日
